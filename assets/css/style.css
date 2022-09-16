@@ -32,7 +32,7 @@ body,
 html {
   color: #737a99;
   background-color: #f8fafc;
-  font-family: 'Mulish', sans-serif;
+  font-family: 'Courier-new', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5em;
@@ -51,15 +51,15 @@ h6 {
   margin: 0 0 20px 0;
   font-weight: 600;
   line-height: 1.2em;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Monserrat', sans-serif;
 }
 
 .cs-primary_font {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Monserrat', sans-serif;
 }
 
 .cs-secondary_font {
-  font-family: 'Mulish', sans-serif;
+  font-family: 'Monserrat', sans-serif;
 }
 
 h1 {
@@ -4606,7 +4606,7 @@ kbd {
 }
 
 .cs-site_branding img {
-  height: 45px;
+  height: 75px;
 }
 
 @media screen and (min-width: 1200px) {
@@ -7363,6 +7363,10 @@ li.menu-item-has-children
 /*--------------------------------------------------------------
 19. Dark Mode
 ----------------------------------------------------------------*/
+
+
+
+
 body.cs-dark {
   background-color: #080326;
   color: rgba(255, 255, 255, 0.8);
